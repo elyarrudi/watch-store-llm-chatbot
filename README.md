@@ -68,7 +68,6 @@ Pipeline:
 5. **Post-validation**  
    Code validates model output against the database options.  
    Near-miss / meaning-close values are mapped to official option text.  
-   Important missing fields can be completed from the user sentence.
 
 6. **Product search**  
    Final filters are queried in MongoDB:
