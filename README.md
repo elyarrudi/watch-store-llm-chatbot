@@ -1,9 +1,6 @@
 ﻿# Watch Store LLM Chatbot
 
-<video src="demo.mp4" controls autoplay muted loop playsinline width="100%">
-  <a href="demo.mp4">Watch demo</a>
-</video>
-
+![Chatbot demo](https://cdn.jsdelivr.net/gh/elyarrudi/watch-store-llm-chatbot@main/demo.gif)
 
 
 Demo video (sample chatbot output on the watch store website):  
