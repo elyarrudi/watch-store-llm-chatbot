@@ -1,6 +1,8 @@
 ﻿# Watch Store LLM Chatbot
 
-![Chatbot demo](demo.gif)
+<video src="demo.mp4" controls autoplay muted loop playsinline width="100%">
+  <a href="demo.mp4">Watch demo</a>
+</video>
 
 
 
