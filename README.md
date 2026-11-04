@@ -1,6 +1,8 @@
 ﻿# Watch Store LLM Chatbot
 
-![Chatbot demo](https://cdn.jsdelivr.net/gh/elyarrudi/watch-store-llm-chatbot@main/demo.gif)
+![Chatbot demo](demo.gif)
+
+
 
 
 Demo video (sample chatbot output on the watch store website):  
