@@ -1,10 +1,5 @@
 ﻿# Watch Store LLM Chatbot
 
-![Chatbot demo](demo.gif)
-
-
-
-
 Demo video (sample chatbot output on the watch store website):  
 
 https://drive.google.com/file/d/1QkoHsWzXkJeBVW28-D1qM-0rb5q-nvwt/view?usp=sharing
