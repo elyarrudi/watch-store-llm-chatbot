@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1QkoHsWzXkJeBVW28-D1qM-0rb5q-nvwt/view?usp=shari
 This system has two modes:
 
 - **Suggestion** — map a purchase request to real catalog filters and recommend products
-- **Ask a Question** — find the right FAQ answer with RAG
+- **Ask a Question** — find the right FAQ answer with RAG from a Qdrant vector database
 
 ---
 
